@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: FFFFFA;
+}
+.main-body
+{
+    width: 100%;
+    height: 640px;
+    
+    margin-top: 0px;
+}
+.logo
+{   display:inline-flex;
+    padding-left: 104px;
+    padding-top: 96px;
+}
+.logo p
+{
+padding-left: 6px;
+padding-top: 4px ;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: bold;
+font-size: 29px;
+line-height: 34px;
+color: rgba(0, 0, 0, 0.81);
+}
+.login-item h1
+{   padding-left: 121px;
+    padding-top: 49px ;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 29px;
+    line-height: 34px;
+    color: rgba(0, 0, 0, 0.81)
+}
+.login-item h2
+{
+padding-left: 113px;
+padding-top: 11px ;
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+color: #434343;
+}
+.txtbox
+{
+padding-left: 51px;
+padding-top: 15px ;
+}
+.txtbox input[type=text]
+{   
+    padding-left: 32px;
+    width: 257px;
+    height: 36px;
+    background: #E5E5E5;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+    box-sizing: border-box;
+}
+.txtbox1
+{
+padding-left: 51px;
+padding-top: 18px ;
+}
+.txtbox1 input[type=text]
+{   
+    padding-left: 32px;
+    width: 257px;
+    height: 36px;
+    background: #E5E5E5;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+    box-sizing: border-box;
+}
+.chek-box
+{   display:inline-flex;
+    padding-top: 14px;
+    padding-left: 80px;
+}
+.chek-box input[type=checkbox]
+{
+    padding-left: 9px;
+}
+.chek-box label
+{   padding-left: 9px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 15px;
+    color: #434343;
+    
+}
+.sub-btn
+{
+    padding-top: 14px;
+    padding-left: 91px; 
+}
+.btn
+{
+width: 178px;
+height: 36px;
+
+background: #1FCC44;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+box-sizing: border-box;
+}
+.bn
+{
+    padding-top: 14px;
+    padding-left: 91px;
+}
+.bn input[type=submit]
+{
+width: 178px;
+height: 36px;
+background: #1FCC44;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+box-sizing: border-box;
+border: none;
+border-radius: 10px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 19px;
+line-height: 22px;
+
+color: #FFFFFF;
+}
